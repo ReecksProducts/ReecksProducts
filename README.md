@@ -1,10 +1,6 @@
-<h1 align="center">Hi there, I'm <a href="#" target="_blank">Shedevro1337</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">HTML & CSS Developer from Ukraine</h3>
-<p>Worked with: </p>
-<ul>
-  <li>Visual Studio Code</li>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>Python</li>
-</ul>
+<style>
+        @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+    </style>
+    <h2 style='font-family: "JetBrains Mono", monospace;'>Привет, я <b>shedevro1337</b></h2>
+    <h4 style='font-family: "JetBrains Mono", monospace;'>html, css, python developer</h4>
+    <h5 style='font-family: "JetBrains Mono", monospace;'>пишу простые программы ради забавы =)</h5>
